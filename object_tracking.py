@@ -5,8 +5,8 @@ MIN_MATCH_COUNT = 10
 MIN_CONTOUR_AREA = 100
 X_SIZE = 60
 Y_SIZE = 60
-VIDEO_FILE = "video.mp4"
-IMAGE_FILE = "image.jpg"
+VIDEO_FILE = "resources/video.mp4"
+IMAGE_FILE = "resources/image.jpg"
 
 rect_coord = []
 mean_coord = []
